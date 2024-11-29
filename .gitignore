@@ -1,8 +1,11 @@
 /Server/*
+/BuildTools/*
 
 !/Server/server.jar
 !/Server/eula.txt
 !/Server/plugins/
+!/BuildTools/BuildTools.exe
+!/BuildTools/server.jar
 
 /Server/plugins/*
 
