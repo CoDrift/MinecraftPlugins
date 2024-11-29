@@ -1,0 +1,6 @@
+# Exclude the entire Server folder
+/Server/*
+
+# Negate the exclusion for server.jar
+!/Server/server.jar
+!/Server/eula.txt

@@ -1,0 +1,6 @@
+name: HiddenArmour
+author: CoDrift
+main: com.codrift.hiddenarmour.HiddenArmour
+version: 1.0
+api-version: 1.21.1
+description: A plugin to hide player armor while keeping it functional

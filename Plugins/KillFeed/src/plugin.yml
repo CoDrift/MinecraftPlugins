@@ -1,0 +1,6 @@
+name: KillFeed
+main: com.codrift.killfeed.KillFeed
+version: 1.0
+api-version: 1.21.1
+description: A plugin to broadcast the player's death coordinates in red text
+author: YourName
